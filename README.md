@@ -1,4 +1,4 @@
-# React-Goals-Tracker
+# React_GoalsTracker
 
 Just a simple Add/Delete react app for testing purposes
 
